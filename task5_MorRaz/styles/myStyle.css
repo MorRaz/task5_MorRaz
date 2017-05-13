@@ -1,0 +1,116 @@
+body {
+    direction: rtl;
+    font-family: Arial;
+}
+
+#container {
+    background-image: url('../image/Background picture2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+#mishpat {
+    padding-top: 40px;
+    padding-right: 300px;
+    font-size: 40pt;
+}
+
+#mishpat2 {
+    padding-top: 60px;
+    padding-right: 200px;
+    font-size: 40pt;
+}
+
+
+}
+/*עיצוב תפריט ניווט */
+nav {
+    width: 1240px;
+    margin-top: 200px;
+    padding-right: 20px;
+}
+
+    nav ul li {
+        display: inline-block;
+        background-color: rgba(255,255,255,0.6);
+        border-radius: 20px 20px 0px 0px;
+        height: 50px;
+        width: 300px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: black;
+    font-weight: bold;
+        }
+
+ 
+
+    nav ul li.selected {
+        background-color: lightgray;
+    }
+
+
+#page1
+{
+    background: rgba(255,255,255,0.6);
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 20pt;
+text-align:center;
+
+}
+
+
+.tohen {
+    background: rgba(255,255,255,0.6);
+    height:500px;
+    width:1240px;
+        margin-top:5px;
+        padding:10px;
+        line-height:20px;
+
+
+}
+
+#indexp{
+    margin-top: 283px;
+}
+.piskap{
+    margin-top:50px;
+}
+
+   #piska2 {
+    margin-top: 50px;
+}
+
+
+
+#tikshoret {
+     height: 800px;
+    width: 300px;
+    display: inline-block;
+    float: left;
+    margin-top: -359px;
+}
+
+
+#pic2{
+    margin-top:27px;
+}
+#video {
+   margin-right: 322px;
+    margin-top: 59px;
+
+}
+#landingp{
+    margin-top:40px;
+}
+
+#pic2, #collag, #landingp:hover{
+opacity: 0.7;
+}
+
